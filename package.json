@@ -1,0 +1,30 @@
+{
+  "name": "arduino-gmail-notifier",
+  "version": "0.0.0",
+  "description": "arduino gmail notifier, because that's the future",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christian-fei/arduino-gmail-notifier.git"
+  },
+  "keywords": [
+    "gmail",
+    "arduino",
+    "johnny",
+    "five",
+    "notifier"
+  ],
+  "author": "@christian_fei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christian-fei/arduino-gmail-notifier/issues"
+  },
+  "homepage": "https://github.com/christian-fei/arduino-gmail-notifier",
+  "devDependencies": {
+    "inbox": "~1.1.46",
+    "johnny-five": "~0.7.15"
+  }
+}
