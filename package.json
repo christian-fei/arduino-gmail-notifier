@@ -25,6 +25,7 @@
   "homepage": "https://github.com/christian-fei/arduino-gmail-notifier",
   "devDependencies": {
     "inbox": "~1.1.46",
-    "johnny-five": "~0.7.15"
+    "johnny-five": "~0.7.15",
+    "growl": "~1.7.0"
   }
 }
